@@ -1,0 +1,75 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Natory Sushi Morumbi - Tour Virtual 360º
+
+## Skin
+
+### Button
+Button_3639594F_1EEB_E2FE_4197_949A881147F8.label = RAPPI
+Button_3639594F_1EEB_E2FE_4197_949A881147F8_mobile.label = RAPPI
+Button_370BC33D_1EEB_E69D_41B4_5D0818D738A2.label = LOCALIZAÇÃO
+Button_370BC33D_1EEB_E69D_41B4_5D0818D738A2_mobile.label = LOCALIZAÇÃO
+Button_37180B16_1EEB_266E_4190_14EEC2EB2D2D.label = IFOOD
+Button_37180B16_1EEB_266E_4190_14EEC2EB2D2D_mobile.label = IFOOD
+Button_37559826_1EE9_62AE_4198_67FBC630538C.label = FACEBOOK
+Button_37559826_1EE9_62AE_4198_67FBC630538C_mobile.label = FACEBOOK
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = BUTTON
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = SITE
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = SITE
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = INSTAGRAM
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = INSTAGRAM
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = WHATSAPP
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = WHATSAPP
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = GO TO BUY 
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = GO TO BUY 
+
+### Multiline Text
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.02vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.02vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5700000000000005vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:1.57vw;font-family:'Exo';"><B><I>SPORTBACK 1.4 / TDI ULTRA / 90 CV / ATTRACTION </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">General Data:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">Year 2019 / 51.214 kms / Diesel / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">5 doors / 90 cv / Manual</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4500000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$18300</B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.02vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.02vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5700000000000005vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:1.57vw;font-family:'Exo';"><B><I>SPORTBACK 1.4 / TDI ULTRA / 90 CV / ATTRACTION </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">General Data:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">Year 2019 / 51.214 kms / Diesel / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">5 doors / 90 cv / Manual</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4500000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$18300</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_288A7C93_1F69_2265_41AD_EF701A92E2E0.label = Álbum de Fotos Sem título
+album_288A7C93_1F69_2265_41AD_EF701A92E2E0_0.label = Sem título
+panorama_320C8BC2_19E9_65E7_41B8_001C734CFE85.label = Rua
+panorama_33806A23_19E9_26A5_41AB_65BDBD1EF29B.label = Entrada
+panorama_3380F85A_19E9_22E6_41B0_2CF8DC616692.label = Saida
+panorama_33BEAE9A_19D7_3E67_41B3_AF5CDE272173.label = Salão 7
+panorama_33BEE44F_19D7_22FD_41AD_50436FD9AC88.label = Salão 4
+panorama_33BF08CC_19D6_E3E3_41A7_ECEDD1B00067.label = Salão 1
+panorama_33BF2D44_19D7_22E3_41B6_E132A5B4A9EB.label = Sanitarios
+panorama_33BF377A_19D6_EEA6_41AB_7DCB23CECCEA.label = Espera
+panorama_33BF51AC_19D7_65A3_41AC_3C1372E4EDCA.label = Salão 6
+panorama_33BF6005_19D7_226D_41A7_9CAB9EEEA3FE.label = Salão 5
+panorama_33BF72F1_19D7_67A2_41B1_01BD0E56B92A.label = Salão 2
+panorama_33BFC5F7_19D7_2DAE_41B9_5C307BE7B662.label = Salão 3
+video_35EE4573_1ED6_E2A6_41A2_4B350CF05525.label = WhatsApp Video 2021-11-13 at 22.19.29
+
+## Action
+
+### URL
+LinkBehaviour_2B690EEE_1F2B_FFBE_4197_E8DE7D0DD613.source = https://www.rappi.com.br/restaurantes/900226288-natory-sushi-morumbi-sao-paulo
+LinkBehaviour_2B693EEA_1F2B_FFA6_41B3_62E99642E7EB.source = https://api.whatsapp.com/send?phone=5511944005232
+LinkBehaviour_2B69AEED_1F2B_FFA2_41AF_A1C3F5973C03.source = https://www.ifood.com.br/delivery/sao-paulo-sp/natory-sushi-morumbi-santo-amaro/2f815923-1069-4b26-8f35-ca79ffbe0cef?UTM_Medium=share
+LinkBehaviour_2B6E4EE8_1F2B_FFA2_41B7_FC72D651EA06.source = https://natorysushi.com.br/
+LinkBehaviour_2B6E4EEF_1F2B_FFBE_41B2_7E18A4A62B0F.source = https://www.google.com/maps/place/Natory+Sushi+Morumbi/@-23.6199352,-46.6945724,15z/data=!4m5!3m4!1s0x0:0xc56c4970bb3381f4!8m2!3d-23.6199352!4d-46.6945724
+LinkBehaviour_2B6E9EEA_1F2B_FFA6_41A0_FDDA4B196989.source = https://www.instagram.com/natorysushimorumbi/
+LinkBehaviour_2B6F1EEC_1F2B_FFA2_41B2_75C8504FBCFA.source = https://www.facebook.com/natorysushimorumbi
+LinkBehaviour_2B6F6EF2_1F2B_FFA6_41B0_863175519D7C.source = https://www.loremipsum.com
+LinkBehaviour_2B6FBEF9_1F2B_FFA5_41B2_44A51A93BCEB.source = https://www.lista11.com.br/
+LinkBehaviour_302C17DC_1ED9_2DE2_41B5_194FC35F47F8.source = https://www.ifood.com.br/delivery/sao-paulo-sp/natory-sushi-morumbi-santo-amaro/2f815923-1069-4b26-8f35-ca79ffbe0cef?UTM_Medium=share
+LinkBehaviour_308F22C1_1ED9_27E2_41BB_BB7AF2F6CDDD.source = https://www.rappi.com.br/restaurantes/900226288-natory-sushi-morumbi-sao-paulo
+LinkBehaviour_30A43B86_1EDB_266F_41B1_A917BFE1CC21.source = https://www.instagram.com/natorysushimorumbi/
+LinkBehaviour_30ED77FE_1EDF_ED9E_41AA_F1EE88E3EF0D.source = https://www.lista11.com.br/
+LinkBehaviour_318468AA_19D9_63A7_419B_687961161458.source = https://www.loremipsum.com
+LinkBehaviour_36D6AB51_1EDB_26E5_41BB_F25BB402B928.source = https://natorysushi.com.br/
+LinkBehaviour_36DB1ED6_1EDB_3FEF_41B7_D5C6F438FFE5.source = https://www.facebook.com/natorysushimorumbi
+LinkBehaviour_37C23624_1EDB_2EA3_4170_D6BE9B796A08.source = https://api.whatsapp.com/send?phone=5511944005232
+LinkBehaviour_37FC7AE8_1EDF_67A3_41B4_608983BF1E62.source = https://www.google.com/maps/place/Natory+Sushi+Morumbi/@-23.6199352,-46.6945724,15z/data=!4m5!3m4!1s0x0:0xc56c4970bb3381f4!8m2!3d-23.6199352!4d-46.6945724
